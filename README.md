@@ -3,6 +3,7 @@
 
 - Added menu option to 'compress' directories with the 0 compress storage option.
 - I was sick of changing the GUI back and forth.
+- However it's irritating to use. I should not have used powershell.
 
 ## Synopsis
 
